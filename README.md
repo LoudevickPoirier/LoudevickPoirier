@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **loudevickpoirier@gmail.com**
 
-- 📄 Know about my experiences [Ever since I first dabbled in programming at CEGEP, I've been captivated by the potential of creating innovative web solutions. I started with small personal projects, experimenting with different languages and technologies. But it was when I discovered Laravel that I truly found my passion. Its clear syntax, powerful features, and active community won me over. I love building web applications with Laravel, exploring its capabilities, and crafting seamless user experiences.
+- 📄 Know about my experiences [Ever since I first dabbled in programming at CEGEP, I've been captivated by the potential of creating innovative web solutions. I started with small personal projects, experimenting with different languages and technologies. But it was when I discovered Laravel that I truly found my passion. Its clear syntax, powerful features, and active community won me over. I love building web applications with Laravel, exploring its capabilities, and crafting seamless user experiences.]
 
 Ever since I first dabbled in programming at CEGEP, I've been captivated by the potential of creating innovative web solutions. I started with small personal projects, experimenting with different languages and technologies. But it was when I discovered Laravel that I truly found my passion. Its clear syntax, powerful features, and active community won me over. I love building web applications with Laravel, exploring its capabilities, and crafting seamless user experiences.
 
