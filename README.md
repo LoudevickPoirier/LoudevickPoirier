@@ -8,7 +8,8 @@
 
 Ever since I first dabbled in programming at CEGEP, I've been captivated by the potential of creating innovative web solutions. I started with small personal projects, experimenting with different languages and technologies. But it was when I discovered Laravel that I truly found my passion. Its clear syntax, powerful features, and active community won me over. I love building web applications with Laravel, exploring its capabilities, and crafting seamless user experiences.
 
-Today, I'm proud to be working on more complex projects, such as [mention a specific project]. This allows me to challenge my skills, discover new facets of web development, and contribute to something meaningful. What drives me the most is the limitless potential of this field. The ability to transform ideas into functional applications, solve problems, and continuously learn – that's what fascinates me!
+Today, I'm proud to be working on more complex projects, such as [KaizenTraining](http://kaizentraining.ca/)
+. This allows me to challenge my skills, discover new facets of web development, and contribute to something meaningful. What drives me the most is the limitless potential of this field. The ability to transform ideas into functional applications, solve problems, and continuously learn – that's what fascinates me!
 
 I'm always looking for new challenges and technologies to explore. If you have interesting projects or advice to share, feel free to reach out!
 
