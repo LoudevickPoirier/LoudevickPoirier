@@ -13,7 +13,6 @@ Today, I'm proud to be working on more complex projects, such as [KaizenTraining
 
 I'm always looking for new challenges and technologies to explore. If you have interesting projects or advice to share, feel free to reach out!
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
